@@ -31,7 +31,7 @@ const STATS = [
 
 function Dashboard() {
   return (
-    <AppShell title="Good morning, Alex" subtitle="Five assistants, one workspace">
+    <AppShell title="Good morning, Matodzi" subtitle="Five assistants, one workspace">
       <div className="flex flex-wrap items-end justify-between gap-4">
         <div>
           <p className="text-[11px] font-medium uppercase tracking-[0.25em] text-primary">
